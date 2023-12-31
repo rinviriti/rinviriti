@@ -3,8 +3,8 @@ I'm an inquisitive, energetic computer science student skilled in leadership, wi
 
 Skills: C / C++ / Python / Java / JS / HTML / CSS
 
-- 🔭 I’m currently working on Portfolio using HTML, CSS and JS. 
-- 🌱 I’m currently learning Python, C++, CP. 
+- 🔭 I’m currently working on a Portfolio using HTML, CSS, and JS. 
+- 🌱 I’m currently learning Python, C++, and CP. 
 - 🤔 I’m looking for help with CP. 
 
 
