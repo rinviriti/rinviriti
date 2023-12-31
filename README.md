@@ -1,3 +1,4 @@
+![RINVI RITI](https://github.com/rinviriti/rinviriti/assets/155306221/ad98ead5-23a0-4258-a504-c25f0ecf7aa2)
 ### Hi there 👋, This is Rinvi Jaman Riti.
 I'm an inquisitive, energetic computer science student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding.
 
