@@ -1,5 +1,4 @@
 ### Hi there 👋, This is Rinvi Jaman Riti.
-![Uploading RINVI RITI.png…]()
 I'm an inquisitive, energetic computer science student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding.
 
 Skills: C / C++ / Python / Java / JS / HTML / CSS
