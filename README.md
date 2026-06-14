@@ -61,13 +61,15 @@ Hybrid Transformer-based Brain Tumor Segmentation Framework for MRI Analysis.
 
 ---
 
-## 📚 Publications
+## 📚 Selected Publications
 
-🔹 IEEE ECCE 2025 — Dengue Risk Prediction Using Machine Learning
+| Year | Publication | Research Area |
+|------|-------------|--------------|
+| 2025 | Dengue Risk Prediction Using Machine Learning (IEEE ECCE 2025) | Healthcare AI |
+| 2025 | Heat Stroke Risk Assessment Using Artificial Intelligence (IEEE ECCE 2025) | Healthcare AI |
+| 2025 | Road Sign Recognition System Using Deep Learning (IEEE ECCE 2025) | Computer Vision |
 
-🔹 IEEE ECCE 2025 — Heat Stroke Risk Assessment Using Artificial Intelligence
-
-🔹 IEEE ECCE 2025 — Road Sign Recognition System Using Deep Learning
+📖 ORCID: https://orcid.org/0009-0008-5851-3307
 
 ---
 
