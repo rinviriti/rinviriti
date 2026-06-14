@@ -55,10 +55,10 @@ AI-powered Research Assistant Platform
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-amber?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-amber?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-amber?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Google_Colab-amber?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-sepia?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-sepia?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-sepia?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google_Colab-sepia?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
