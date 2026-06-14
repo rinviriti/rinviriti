@@ -24,7 +24,7 @@ Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medica
 Explainable Skin Cancer Screening System.
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-![Research](https://img.shields.io/badge/Type-Thesis-blue)
+![Research](https://img.shields.io/badge/Type-Thesis-espresso)
 
 ### 📱 [RH+](https://github.com/rinviriti/research-ai-assistant)
 AI-powered Research Assistant Platform
@@ -55,10 +55,10 @@ AI-powered Research Assistant Platform
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-darkgrey?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-darkgrey?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-darkgrey?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/Google_Colab-darkgrey?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-amber?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-amber?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-amber?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google_Colab-amber?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
