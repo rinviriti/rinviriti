@@ -24,7 +24,7 @@ Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medica
 Explainable Skin Cancer Screening System.
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-![Research](https://img.shields.io/badge/Type-Thesis-espresso)
+![Type](https://img.shields.io/badge/Type-Thesis-3B82F6?style=flat-square)
 
 ### 📱 [RH+](https://github.com/rinviriti/research-ai-assistant)
 AI-powered Research Assistant Platform
