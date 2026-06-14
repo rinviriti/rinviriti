@@ -8,11 +8,11 @@ Final-Year Computer Science & Engineering Student at Daffodil International Univ
 
 Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medical Imaging, and Mobile Application Development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rinvi-jaman)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5851-3307)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EUcsQd8AAAAJ&hl=en&authuser=2)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rinvi-Riti)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rinvijaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)](...)
+[![ORCID](https://img.shields.io/badge/ORCID-374151?style=for-the-badge&logo=orcid&logoColor=white)](...)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-374151?style=for-the-badge&logo=googlescholar&logoColor=white)](...)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-374151?style=for-the-badge&logo=researchgate&logoColor=white)](...)
+[![Kaggle](https://img.shields.io/badge/Kaggle-374151?style=for-the-badge&logo=kaggle&logoColor=white)](...)
 
 </div>
 
