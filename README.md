@@ -66,20 +66,20 @@ Hybrid Transformer-based Brain Tumor Segmentation Framework for MRI Analysis.
 ### IEEE ECCE 2025
 
 🩺 **Weather Data Driven Dengue Risk Zone Prediction using Machine Learning Algorithms**
+
 🔗 Paper: https://doi.org/10.1109/ECCE64574.2025.11013910
 
 🌡️ **Weather Data Driven Dengue Risk Zone Prediction using Machine Learning Algorithms**
+
 🔗 Paper: https://doi.org/10.1109/ECCE64574.2025.11012974
 
 🚦 **Traditional Art and Craft Item Recognition Using Deep Learning**
+
 🔗 Paper: https://doi.org/10.1109/ECCE64574.2025.11013395
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5851-3307)
-
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EUcsQd8AAAAJ&hl=en&authuser=2)
-
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rinvi-Riti)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rinvijaman)
 
 ---
