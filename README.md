@@ -88,20 +88,10 @@ AI-powered Research Assistant Platform for researchers and students.
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&theme=tokyonight" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rinviriti&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&theme=tokyonight" width="48%" height="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact&theme=tokyonight" width="48%" height="48%" />
+</p>
 
 ---
 
