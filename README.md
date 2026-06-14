@@ -21,13 +21,13 @@ Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medica
 ## 🚀 Current Projects
 
 ### 🩺 [MobileSkinXAI](https://github.com/rinviriti/MobileSkinXAI)
-Explainable Skin Cancer Screening System using Deep Learning, Grad-CAM, and Flutter.
+Explainable Skin Cancer Screening System.
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Research](https://img.shields.io/badge/Type-Thesis-blue)
 
 ### 📱 [RH+](https://github.com/rinviriti/research-ai-assistant)
-AI-powered Research Assistant Platform for researchers and students.
+AI-powered Research Assistant Platform
 
 ---
 
@@ -35,30 +35,30 @@ AI-powered Research Assistant Platform for researchers and students.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
 
 ### AI & Data Science
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-purple?style=flat-square&logo=tensorflow&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-purple?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-purple?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=pandas&logoColor=white)
 
 ### Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-teal?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-teal?style=flat-square&logo=dart&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-darkgrey?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-darkgrey?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-darkgrey?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/Google_Colab-darkgrey?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
 
@@ -100,8 +100,7 @@ AI-powered Research Assistant Platform for researchers and students.
 
 ## 🌍 Portfolio
 
-🔗 Portfolio Website  
-https://sites.google.com/diu.edu.bd/rinvijamanriti
+🌐 [Visit Portfolio Website](https://sites.google.com/diu.edu.bd/rinvijamanriti)  
 
 ---
 
