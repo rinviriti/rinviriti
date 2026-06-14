@@ -9,8 +9,10 @@ Final-Year Computer Science & Engineering Student at Daffodil International Univ
 Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medical Imaging, and Mobile Application Development.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rinvi-jaman)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rinvijamanriti)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5851-3307)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EUcsQd8AAAAJ&hl=en&authuser=2)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rinvi-Riti)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rinvijaman)
 
 </div>
 
@@ -73,21 +75,14 @@ AI-powered Research Assistant Platform for researchers and students.
 
 🔗 Paper: https://doi.org/10.1109/ECCE64574.2025.11013395
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=EUcsQd8AAAAJ&hl=en&authuser=2)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Rinvi-Riti)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rinvijaman)
-
 ---
 
 ## 🔬 Research Interests
 
-- Medical Imaging
-- Artificial Intelligence
-- Deep Learning
-- Explainable AI (XAI)
-- Computer Vision
-- Healthcare AI
-- Mobile AI Applications
+🩺 Medical Imaging
+🧠 Explainable AI
+👁️ Computer Vision
+📱 Mobile Healthcare AI
 
 ---
 
@@ -95,7 +90,6 @@ AI-powered Research Assistant Platform for researchers and students.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact" height="170">
 </p>
 
 <p align="center">
