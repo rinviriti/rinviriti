@@ -90,7 +90,7 @@ AI-powered Research Assistant Platform for researchers and students.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&theme=tokyonight" width="48%" height="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact&theme=tokyonight" width="48%" height="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact&theme=tokyonight" width="48%" height="38%" />
 </p>
 
 ---
