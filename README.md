@@ -20,10 +20,12 @@ Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medica
 
 ## 🚀 Current Projects
 
-### 🩺 MobileSkinXAI
+### 🩺 [MobileSkinXAI](https://github.com/rinviriti/MobileSkinXAI)
 Explainable Skin Cancer Screening System using Deep Learning, Grad-CAM, and Flutter.
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Research](https://img.shields.io/badge/Type-Thesis-blue)
 
-### 📱 RH+
+### 📱 [RH+](https://github.com/rinviriti/research-ai-assistant)
 AI-powered Research Assistant Platform for researchers and students.
 
 ---
