@@ -1,21 +1,73 @@
-# 👋 Hi, I'm Rinvi Jaman Riti
+<div align="center">
 
-🎓 Final-Year Computer Science & Engineering Student at Daffodil International University
+# Hi 👋, I'm Rinvi Jaman Riti
 
-🔬 AI Researcher | 📱 Flutter Developer | 🏥 Medical Imaging Enthusiast
+### AI Researcher • Flutter Developer • Medical Imaging Enthusiast
 
-I am passionate about developing intelligent systems that solve real-world healthcare and research challenges through Artificial Intelligence, Deep Learning, Computer Vision, and Mobile Application Development.
+Final-Year Computer Science & Engineering Student at Daffodil International University.
+
+Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medical Imaging, and Mobile Application Development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rinvi-jaman)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rinviriti)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@rinviriti)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-5851-3307)
+
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Projects
 
-- 📱 Developing RH+ – An AI-Powered Research Assistant Platform
-- 🏥 Building MobileSkinXAI for Explainable Skin Cancer Screening
-- 🧠 Researching Medical Image Analysis and Deep Learning
-- 🔍 Exploring Explainable AI (XAI) and Computer Vision
-- 📚 Strengthening Flutter, Machine Learning, and Research Skills
-- 🌏 Preparing for higher studies and international research opportunities
+### 🩺 MobileSkinXAI
+Explainable Skin Cancer Screening System using Deep Learning, Grad-CAM, and Flutter.
+
+### 📱 RH+
+AI-powered Research Assistant Platform for researchers and students.
+
+### 🧠 Swin-UNet++
+Hybrid Transformer-based Brain Tumor Segmentation Framework for MRI Analysis.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+---
+
+## 📚 Publications
+
+🔹 IEEE ECCE 2025 — Dengue Risk Prediction Using Machine Learning
+
+🔹 IEEE ECCE 2025 — Heat Stroke Risk Assessment Using Artificial Intelligence
+
+🔹 IEEE ECCE 2025 — Road Sign Recognition System Using Deep Learning
 
 ---
 
@@ -27,116 +79,32 @@ I am passionate about developing intelligent systems that solve real-world healt
 - Explainable AI (XAI)
 - Computer Vision
 - Healthcare AI
-- Mobile AI Systems
-- Human-Centered AI
+- Mobile AI Applications
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 GitHub Stats
 
-### Programming Languages
-- C
-- C++
-- Python
-- Java
-- JavaScript
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact" height="170">
+</p>
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-
-### AI & Data Science
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- TensorFlow
-- Scikit-Learn
-- NumPy
-- Pandas
-
-### Mobile Development
-- Flutter
-- Dart
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Google Colab
-- Jupyter Notebook
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinviriti">
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🌍 Portfolio
 
-### RH+ Research Assistant
-AI-powered research collaboration and assistance platform built with Flutter.
-
-### MobileSkinXAI
-Explainable Skin Cancer Screening System using Deep Learning and Grad-CAM visualization.
-
-### Swin-UNet++
-Hybrid Transformer-based Brain Tumor Segmentation Framework for MRI Analysis.
-
-### Flutter Portfolio
-Personal portfolio website showcasing projects, achievements, and technical skills.
+🔗 Portfolio Website  
+https://sites.google.com/diu.edu.bd/rinvijamanriti
 
 ---
 
-## 📚 Publications
+<div align="center">
 
-### IEEE ECCE 2025
-- Dengue Risk Prediction Using Machine Learning
-- Heat Stroke Risk Assessment Using Artificial Intelligence
-- Road Sign Recognition System Using Deep Learning
+### "Technology becomes meaningful when it improves lives."
 
----
-
-## 🏆 Achievements
-
-- IEEE Conference Author
-- Research Project Contributor
-- JUSST Japan Exchange Program Participant
-- Active AI and Flutter Developer
-
----
-
-## 🎯 2026 Goals
-
-- Publish Journal Papers in Medical AI
-- Complete MobileSkinXAI Thesis
-- Contribute Regularly to Open Source
-- Strengthen Flutter Development Skills
-- Build AI-Powered Healthcare Applications
-- Grow as a Researcher and Software Engineer
-
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinviriti)
-
----
-
-## 🌐 Connect With Me
-
-🔗 LinkedIn: https://linkedin.com/in/rinvi-jaman
-
-🖥️ GitHub: https://github.com/rinviriti
-
-📺 YouTube: https://youtube.com/@rinviriti
-
-🌍 Portfolio: https://sites.google.com/diu.edu.bd/rinvijamanriti
-
-🆔 ORCID: https://orcid.org/0009-0008-5851-3307
-
----
-
-### 💡 Quote
-
-"Technology becomes meaningful when it improves lives."
+</div>
