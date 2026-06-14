@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Rinvi Jaman Riti
 
-### AI Researcher • Flutter Developer • Medical Imaging Enthusiast
+### AI Researcher • IEEE Author • Flutter Developer • Medical Imaging Enthusiast
 
 Final-Year Computer Science & Engineering Student at Daffodil International University.
 
