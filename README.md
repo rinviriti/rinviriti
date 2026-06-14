@@ -1,19 +1,64 @@
-![RINVI RITI](https://github.com/rinviriti/rinviriti/assets/155306221/ad98ead5-23a0-4258-a504-c25f0ecf7aa2)
-### Hi there 👋, This is Rinvi Jaman Riti.
-I'm an inquisitive, energetic computer science student skilled in leadership, with a strong foundation in math, logic, and cross-platform coding.
+# 👋 Hi, I'm Rinvi Jaman Riti
 
-Skills: C / C++ / Python / Java / JS / HTML / CSS
+🎓 Final-Year Computer Science & Engineering Student at Daffodil International University
 
-- 🔭 I’m currently working on a Portfolio using HTML, CSS, and JS. 
-- 🌱 I’m currently learning Python, C++, and CP. 
-- 🤔 I’m looking for help with CP. 
+🔬 AI Researcher | 📱 Flutter Developer | 🧠 Medical Imaging Enthusiast
 
+I am passionate about building intelligent systems that solve real-world problems through Artificial Intelligence, Deep Learning, Computer Vision, and Mobile Application Development.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rinviriti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rinvi-jaman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rinvijamanriti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rinviiriti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/rinvijamanriti)  
+---
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+## 🚀 Current Focus
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true)  
+- 📱 Developing RH+ – An AI-powered Research Assistant Platform
+- 🩺 Building MobileSkinXAI for Explainable Skin Cancer Screening
+- 🧠 Research on Medical Image Analysis and Deep Learning
+- 📚 Exploring Explainable AI (XAI) and Computer Vision
+- 🌱 Improving Flutter, Machine Learning, and Research Skills
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rinviriti)  
+---
 
+## 💻 Technical Skills
+
+### Programming Languages
+C • C++ • Python • Java • JavaScript
+
+### Web Technologies
+HTML • CSS • JavaScript
+
+### AI & Data Science
+Machine Learning • Deep Learning • Computer Vision • TensorFlow • Scikit-Learn
+
+### Mobile Development
+Flutter • Dart
+
+### Tools
+Git • GitHub • VS Code • Google Colab • Jupyter Notebook
+
+---
+
+## 📖 Publications
+
+- IEEE ECCE 2025 – Dengue Risk Prediction Using Machine Learning
+- IEEE ECCE 2025 – Heat Stroke Risk Assessment Using AI
+- IEEE ECCE 2025 – Road Sign Recognition System
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/rinvi-jaman/)
+|
+[GitHub](https://github.com/rinviriti)
+|
+[YouTube](https://www.youtube.com/channel/rinvijamanriti)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=rinviriti)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinviriti&layout=compact)
