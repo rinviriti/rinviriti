@@ -22,6 +22,7 @@ Passionate about Artificial Intelligence, Deep Learning, Computer Vision, Medica
 
 ### 🩺 [MobileSkinXAI](https://github.com/rinviriti/MobileSkinXAI)
 Explainable Skin Cancer Screening System using Deep Learning, Grad-CAM, and Flutter.
+
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Research](https://img.shields.io/badge/Type-Thesis-blue)
 
