@@ -70,7 +70,7 @@ AI-powered Research Assistant Platform
 
 🔗 Paper: https://doi.org/10.1109/ECCE64574.2025.11013910
 
-🌡️ **Weather Data Driven Dengue Risk Zone Prediction using Machine Learning Algorithms**
+🌡️ **Predicting Heat Stroke Risk: A Clinical Decision Support System using Fuzzy Association Mining Approach**
 
 🔗 Paper: https://doi.org/10.1109/ECCE64574.2025.11012974
 
