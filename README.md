@@ -92,8 +92,8 @@ AI-powered Research Assistant Platform
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&title_color=70A5FD&custom_title=GitHub%20Stats&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rinviriti&theme=tokyonight" width="49%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats&theme=tokyonight" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rinviriti&theme=tokyonight" />
 </p>
 
 ---
