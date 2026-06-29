@@ -51,7 +51,7 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 
 ---
 
-## 🔭 Current Focus
+# 🔭 Current Focus
 
 - 🩺 Building **MobileSkinXAI** — an explainable mobile framework for skin cancer screening
 - 🤖 Advancing **ResearchMate AI** for AI-assisted academic research and scientific writing
