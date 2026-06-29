@@ -48,10 +48,10 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 
 | Project | Description | Live Demo |
 |----------|-------------|-----------|
-| 🩺 **SkinGuard XAI** | End-to-End Explainable Skin Lesion Classification using MobileNetV2 and Grad-CAM | 🤗 https://huggingface.co/spaces/rinviriti/SkinGuard-XAI |
-| 🤖 **ResearchMate AI** | AI-powered Research Assistant for Literature Review, Paper Analysis and Structured Research Reporting | 🌐 YOUR_STREAMLIT_LINK |
+| 🩺 **SkinGuard XAI** | End-to-End Explainable Skin Lesion Classification using MobileNetV2 and Grad-CAM | 🤗 [Try SkinGuard XAI](https://huggingface.co/spaces/rinviriti/SkinGuard-XAI) |
+| 🤖 **ResearchMate AI** | AI-powered Research Assistant for Literature Review, Paper Analysis and Structured Research Reporting | 🌐 [Try ResearchMate AI](https://researchmate-ai-fchgrq7vn4ibwsqiwgn5fg.streamlit.app/) |
 | 📱 **MobileSkinXAI** | Explainable Mobile AI Framework for Skin Cancer Screening *(Thesis Project)* | 🚧 In Progress |
-| 📚 **AI & Machine Learning Learning Journey** | Practical AI portfolio containing 70+ notebooks from Python Fundamentals to Medical AI | 💻 GitHub Repository |
+| 📚 **AI & Machine Learning Learning Journey** | Practical AI portfolio containing 70+ notebooks from Python Fundamentals to Medical AI | 💻 [GitHub Repository](https://github.com/rinviriti/AI-ML-Learning-Journey) |
 
 ---
 
