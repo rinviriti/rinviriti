@@ -12,12 +12,29 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)]
-[![ORCID](https://img.shields.io/badge/ORCID-374151?style=for-the-badge&logo=orcid&logoColor=white)]
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-374151?style=for-the-badge&logo=googlescholar&logoColor=white)]
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-374151?style=for-the-badge&logo=researchgate&logoColor=white)]
-[![Kaggle](https://img.shields.io/badge/Kaggle-374151?style=for-the-badge&logo=kaggle&logoColor=white)]
-[![Hugging Face](https://huggingface.co/rinviriti)]
+<a href="https://www.linkedin.com/in/rinvi-jaman/">
+<img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/my-orcid?orcid=0009-0008-5851-3307">
+<img src="https://img.shields.io/badge/ORCID-374151?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=EUcsQd8AAAAJ&hl=en&authuser=2">
+<img src="https://img.shields.io/badge/Google%20Scholar-374151?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Rinvi-Riti">
+<img src="https://img.shields.io/badge/ResearchGate-374151?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/rinvijaman">
+<img src="https://img.shields.io/badge/Kaggle-374151?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://huggingface.co/rinviriti">
+<img src="https://img.shields.io/badge/Hugging%20Face-374151?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
 
 </div>
 
