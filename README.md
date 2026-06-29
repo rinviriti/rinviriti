@@ -40,7 +40,7 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description | Live Demo |
 |----------|-------------|-----------|
@@ -56,8 +56,8 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 - 🩺 Building **MobileSkinXAI** — an explainable mobile framework for skin cancer screening
 - 🤖 Advancing **ResearchMate AI** for AI-assisted academic research and scientific writing
 - 🧠 Researching **Explainable AI (XAI)** for trustworthy medical image analysis
-- 📱 Deploying lightweight deep learning models using **TensorFlow Lite** and **Flutter**
-- 📚 Publishing research in **Medical AI**, **Computer Vision**, and **Deep Learning**
+- 📱 Deploying lightweight AI models on mobile devices using **TensorFlow Lite** and **Flutter**
+- 📚 Pursuing research and publications in **Medical AI**, **Computer Vision**, and **Explainable AI**
 
 ---
 
