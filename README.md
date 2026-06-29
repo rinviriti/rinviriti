@@ -12,33 +12,12 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 
 <br>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_ORCID">
-<img src="https://img.shields.io/badge/ORCID-374151?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="YOUR_GOOGLE_SCHOLAR">
-<img src="https://img.shields.io/badge/Google%20Scholar-374151?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESEARCHGATE">
-<img src="https://img.shields.io/badge/ResearchGate-374151?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
-
-<a href="YOUR_KAGGLE">
-<img src="https://img.shields.io/badge/Kaggle-374151?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="YOUR_HUGGINGFACE">
-<img src="https://img.shields.io/badge/HuggingFace-374151?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
-
-<a href="https://sites.google.com/diu.edu.bd/rinvijamanriti">
-<img src="https://img.shields.io/badge/Portfolio-374151?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![ORCID](https://img.shields.io/badge/ORCID-374151?style=for-the-badge&logo=orcid&logoColor=white)]
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-374151?style=for-the-badge&logo=googlescholar&logoColor=white)]
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-374151?style=for-the-badge&logo=researchgate&logoColor=white)]
+[![Kaggle](https://img.shields.io/badge/Kaggle-374151?style=for-the-badge&logo=kaggle&logoColor=white)]
+[![Hugging Face](https://huggingface.co/rinviriti)]
 
 </div>
 
