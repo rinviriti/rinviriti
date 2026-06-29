@@ -51,6 +51,16 @@ Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medi
 
 ---
 
+## 🔭 Current Focus
+
+- 🩺 Building **MobileSkinXAI** — an explainable mobile framework for skin cancer screening
+- 🤖 Advancing **ResearchMate AI** for AI-assisted academic research and scientific writing
+- 🧠 Researching **Explainable AI (XAI)** for trustworthy medical image analysis
+- 📱 Deploying lightweight deep learning models using **TensorFlow Lite** and **Flutter**
+- 📚 Publishing research in **Medical AI**, **Computer Vision**, and **Deep Learning**
+
+---
+
 # 💻 Tech Stack
 
 <p align="center">
