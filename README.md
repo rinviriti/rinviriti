@@ -1,180 +1,167 @@
 <div align="center">
 
-<img src="banner.png" width="100%" />
+<img src="rinvi_banner.png" width="100%">
 
 # 👋 Hi, I'm Rinvi Jaman Riti
 
-### AI Researcher • IEEE Author • Flutter Developer • Medical AI Enthusiast
+### AI Researcher • IEEE Author • Flutter Developer • Medical Imaging Enthusiast
 
-<p>
+Final-Year Computer Science & Engineering Student at **Daffodil International University**.
 
-<a href="https://www.linkedin.com/in/rinvi-jaman">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Passionate about **Artificial Intelligence, Deep Learning, Computer Vision, Medical Imaging, Explainable AI (XAI),** and **Mobile Application Development**.
 
-<a href="https://orcid.org/0009-0008-5851-3307">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
 
-<a href="https://scholar.google.com/">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
+[![ORCID](https://img.shields.io/badge/ORCID-374151?style=for-the-badge\&logo=orcid\&logoColor=white)](YOUR_ORCID)
 
-<a href="https://www.researchgate.net/">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-374151?style=for-the-badge\&logo=googlescholar\&logoColor=white)](YOUR_SCHOLAR)
 
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-374151?style=for-the-badge\&logo=researchgate\&logoColor=white)](YOUR_RG)
 
-</p>
-
-![](https://komarev.com/ghpvc/?username=rinviriti&style=for-the-badge)
+[![Kaggle](https://img.shields.io/badge/Kaggle-374151?style=for-the-badge\&logo=kaggle\&logoColor=white)](YOUR_KAGGLE)
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 Current Projects
 
-I am a final-year **Computer Science & Engineering** student at **Daffodil International University (Bangladesh)** with a passion for building **AI-powered healthcare solutions**.
+## 🩺 MobileSkinXAI
 
-My interests lie in **Medical Artificial Intelligence, Explainable AI (XAI), Computer Vision, Deep Learning, Mobile Healthcare Applications, and Research-Oriented Software Development**.
+**An Explainable Cross-Domain Lightweight Deep Learning Framework for Mobile-Based Skin Cancer Screening**
 
-I enjoy transforming research ideas into practical applications—from data preprocessing and model training to deployment and explainability.
+> Thesis Project (In Progress)
 
----
+Current research focuses on:
 
-# 🚀 Current Focus
-
-🩺 **MobileSkinXAI**
-
-> An Explainable Cross-Domain Lightweight Deep Learning Framework for Mobile-Based Skin Cancer Screening.
-
-Current research includes:
-
-- Explainable AI (Grad-CAM)
-- Mobile Healthcare AI
-- TensorFlow Lite Deployment
-- Flutter Development
-- Medical Image Classification
-- Transfer Learning
+* Explainable AI (Grad-CAM)
+* Medical Image Classification
+* TensorFlow Lite Deployment
+* Flutter Integration
+* Mobile Healthcare AI
 
 ---
 
-🤖 **ResearchMate AI**
+## 🤖 ResearchMate AI
 
-A multi-agent AI research assistant that automates literature review, paper summarization, structured report generation, and research workflow support.
+AI-powered research assistant that helps researchers analyze academic papers through automated summarization, structured reporting, and literature review support.
 
 ---
 
 # ⭐ Featured Projects
 
-| Project | Description | Status |
-|----------|-------------|--------|
-| 🩺 **SkinGuard XAI** | Explainable Skin Lesion Classification using MobileNetV2 + Grad-CAM | ✅ Deployed |
-| 🤖 **ResearchMate AI** | Multi-Agent AI Research Assistant | ✅ Released |
-| 📱 **MobileSkinXAI** | Mobile AI for Skin Cancer Screening | 🚧 Thesis |
-| 📚 **AI-ML Learning Journey** | 70+ notebooks covering AI, ML, DL & Computer Vision | ✅ Active |
+### 🩺 MobileSkinXAI
 
-### 🌐 Live Demo
+Explainable Mobile AI framework for skin cancer screening using lightweight deep learning models.
 
-**SkinGuard XAI**
+---
+
+### 🤖 ResearchMate AI
+
+Multi-agent AI research assistant for literature review and academic paper analysis.
+
+---
+
+### 🔬 SkinGuard XAI
+
+End-to-end Explainable AI system for skin lesion classification using MobileNetV2 and Grad-CAM.
+
+🌐 Live Demo:
 
 https://huggingface.co/spaces/rinviriti/SkinGuard-XAI
 
 ---
 
-# 📄 Publications
+### 📚 AI & Machine Learning Learning Journey
+
+A structured collection of notebooks and projects documenting practical learning from Python fundamentals to Medical AI.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-374151?style=flat-square\&logo=python\&logoColor=white)
+
+![C](https://img.shields.io/badge/C-374151?style=flat-square\&logo=c\&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-374151?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-374151?style=flat-square\&logo=openjdk\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-374151?style=flat-square\&logo=javascript\&logoColor=white)
+
+---
+
+## AI & Data Science
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-374151?style=flat-square\&logo=tensorflow\&logoColor=white)
+
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-374151?style=flat-square\&logo=scikitlearn\&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-374151?style=flat-square\&logo=numpy\&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-374151?style=flat-square\&logo=pandas\&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-374151?style=flat-square\&logo=opencv\&logoColor=white)
+
+---
+
+## Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-374151?style=flat-square\&logo=flutter\&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-374151?style=flat-square\&logo=dart\&logoColor=white)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-374151?style=flat-square\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-374151?style=flat-square\&logo=github\&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VSCode-374151?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+
+![GoogleColab](https://img.shields.io/badge/Google_Colab-374151?style=flat-square\&logo=googlecolab\&logoColor=white)
+
+![Kaggle](https://img.shields.io/badge/Kaggle-374151?style=flat-square\&logo=kaggle\&logoColor=white)
+
+![Hugging Face](https://img.shields.io/badge/HuggingFace-374151?style=flat-square\&logo=huggingface\&logoColor=white)
+
+---
+
+# 📚 Publications
 
 ## IEEE ECCE 2025
 
-### 🦟 Weather Data Driven Dengue Risk Zone Prediction using Machine Learning Algorithms
+🩺 **Weather Data Driven Dengue Risk Zone Prediction using Machine Learning Algorithms**
 
-https://doi.org/10.1109/ECCE64574.2025.11013910
-
----
-
-### 🌡 Predicting Heat Stroke Risk: A Clinical Decision Support System using Fuzzy Association Mining Approach
-
-https://doi.org/10.1109/ECCE64574.2025.11012974
+🔗 https://doi.org/10.1109/ECCE64574.2025.11013910
 
 ---
 
-### 🎨 Traditional Art and Craft Item Recognition Using Deep Learning
+🌡️ **Predicting Heat Stroke Risk: A Clinical Decision Support System using Fuzzy Association Mining Approach**
 
-https://doi.org/10.1109/ECCE64574.2025.11013395
+🔗 https://doi.org/10.1109/ECCE64574.2025.11012974
 
 ---
 
-## Atlantis Press (Springer Nature)
+🚦 **Traditional Art and Craft Item Recognition Using Deep Learning**
 
-### 🤰 Risk Level Prediction of Antenatal Period Using Machine Learning Approaches
-
-Published in Atlantis Press (Springer Nature)
+🔗 https://doi.org/10.1109/ECCE64574.2025.11013395
 
 ---
 
 # 🔬 Research Interests
 
-- Medical Artificial Intelligence
-- Explainable AI (XAI)
-- Deep Learning
-- Computer Vision
-- Medical Image Analysis
-- Mobile Healthcare AI
-- Clinical Decision Support Systems
-- Transfer Learning
-
----
-
-# 💻 Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Artificial Intelligence
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
----
-
-### Tools
-
-Git • GitHub • Hugging Face • VS Code • Google Colab • Kaggle • Jupyter Notebook
-
----
-
-# 🏆 Highlights
-
-- 📄 Multiple Peer-Reviewed Publications
-- 🩺 Medical AI Research
-- 🤖 Explainable AI Applications
-- 🌐 Deployed AI Applications
-- 📱 Flutter + AI Integration
-- 🔬 End-to-End Deep Learning Pipelines
-- 📚 AI Learning Portfolio
-- 💡 Research-Oriented Software Development
+* 🩺 Medical Imaging
+* 🧠 Explainable AI (XAI)
+* 👁️ Computer Vision
+* 🤖 Deep Learning
+* 📱 Mobile Healthcare AI
+* 🔬 Medical Image Analysis
 
 ---
 
@@ -182,9 +169,9 @@ Git • GitHub • Hugging Face • VS Code • Google Colab • Kaggle • Jupy
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rinviriti&show_icons=true&hide=prs,issues,contribs&custom_title=GitHub%20Stats&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rinviriti&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rinviriti&theme=tokyonight" />
 
 </p>
 
@@ -194,17 +181,7 @@ Git • GitHub • Hugging Face • VS Code • Google Colab • Kaggle • Jupy
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rinviriti&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rinviriti&theme=tokyonight&margin-w=15&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rinviriti&theme=tokyo-night"/>
 
 </p>
 
@@ -212,31 +189,12 @@ Git • GitHub • Hugging Face • VS Code • Google Colab • Kaggle • Jupy
 
 # 🌍 Portfolio
 
-🌐 **Portfolio Website**
-
-https://sites.google.com/diu.edu.bd/rinvijamanriti
-
----
-
-# 🤝 Let's Connect
-
-I am always interested in collaborating on:
-
-- Medical AI Research
-- Explainable AI (XAI)
-- Computer Vision
-- Deep Learning
-- Mobile Healthcare Applications
-- AI for Social Good
-
-Feel free to connect or reach out for collaboration opportunities.
+🌐 https://sites.google.com/diu.edu.bd/rinvijamanriti
 
 ---
 
 <div align="center">
 
-### 💙 "Technology becomes meaningful when it improves lives."
-
-⭐ Thank you for visiting my GitHub profile.
+### *"Technology becomes meaningful when it improves lives."*
 
 </div>
